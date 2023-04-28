@@ -1,0 +1,19 @@
+{
+    "name": "amohamed/amsoap",
+    "description": "This is a sample package for Facade.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "amohamed\\amsoap\\": "amohamed/amsoap/src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdallah Mohamed",
+            "email": "abdal_cascad@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
