@@ -6,5 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Amohamed\\Soap\\' => array($baseDir . '/src'),
+    'amohamed\\\\amsoap\\\\' => array($baseDir . '/amohamed/amsoap/src'),
+    'App\\\\' => array($baseDir . '/app'),
 );

@@ -4,8 +4,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "App\\": "app/",
-            "amohamed\\amsoap\\": "amohamed/amsoap/src/"
+            "App\\\\": "app/",
+            "amohamed\\\\amsoap\\\\": "amohamed/amsoap/src/"
         }
     },
     "authors": [

@@ -5,8 +5,8 @@ namespace Amohame\Amsoap\Facades;
 use Illuminate\Support\Facades\Facade;
 
 /**
- * Class ShoppingCartFacade
- * @package LaraShout\ShoppingCart
+ * Class SoapFacade
+ * @package Amohame\Amsoap\Facades
  */
 class SoapFacade extends Facade
 {
