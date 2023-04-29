@@ -1,6 +1,6 @@
 <?php
 
-namespace amohamed\amsoap\Services;
+namespace Amohamed\Amsoap\Services;
 
 class Amsoap
 {
